@@ -36,11 +36,10 @@ npm audit fix --force
 
 
 
-# Executes build¿ Check on it later
-# Dont even know what it means, am i skipping a video?
-# 
+
 npm run start dev
 # <3
-#
 
+# Executes build¿ Check on it later
+# Dont even know what it means, am i skipping a video?
 exec "$@"
